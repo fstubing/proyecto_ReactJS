@@ -1,0 +1,28 @@
+{
+    "listaProductos" : [
+        {
+            "titulo" : "Suzuki Rojo",
+            "imagen" : "https://latam-editorial.pxcrush.net/chileautos/general/editorial/alto.jpg?width=1024&height=682",
+            "precio" : "7.500.000",
+            "descripcion" : "Modelo Alto",
+            "stock": "4"
+
+        },
+        {
+            "titulo" : "Renault Blanco",
+            "imagen" : "https://latam-editorial.pxcrush.net/chileautos/general/editorial/kwid.jpg?width=1024&height=682",
+            "precio" : "8.390.000",
+            "descripcion" : "Modelo Kwid",
+            "stock": "5"
+
+        },
+        {
+            "titulo" : "Chagan Negro",
+            "imagen" : "https://latam-editorial.pxcrush.net/chileautos/general/editorial/symbol.jpg?width=1024&height=682",
+            "precio" : "9.040.000",
+            "descripcion" : "Modelo Alsvin",
+            "stock": "7"
+
+        }
+    ]
+}
